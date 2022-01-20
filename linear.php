@@ -42,4 +42,4 @@ function fetch ($query) {
 	return json_encode([ 'items' => $json ]);
 }
 
-echo fetch('sdd');
+echo fetch($argv[1]);
