@@ -1,1 +1,1 @@
-# linear.app alfred workflow
+# linear.app docs alfred workflow
